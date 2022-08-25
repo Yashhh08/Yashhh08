@@ -16,7 +16,7 @@
 
 - 📫 You can reach me on my E-mail : **yashyerunkar8@gmail.com**
 
-- You can see my resume here : **[Resume](https://drive.google.com/file/d/1oQxoc2Q_EboZlv2ulox4VbDdsKm0lPpC/view?usp=sharing)**
+- You can see my resume here : **[Resume](https://drive.google.com/file/d/1Jeeks0IripCDHknRbzfY8Lb6sWaNSZTx/view)**
 
 <!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
