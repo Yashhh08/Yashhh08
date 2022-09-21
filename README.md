@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash Yerunkar</h1>
-<h3 align="center">An enthusiastic Full Stack Web Developer with a strong set of technical as well as non-technical skills and a dedication towards creating interactive web apps.
+<h3 align="center">An enthusiastic Java Backend Developer with a strong set of technical as well as non-technical skills and a dedication towards creating interactive web apps.
 </h3>
 
 ## 🙋‍♂️ About Me
@@ -16,7 +16,7 @@
 
 - 📫 You can reach me on my E-mail : **yashyerunkar8@gmail.com**
 
-- You can see my resume here : **[Resume](https://drive.google.com/file/d/1Jeeks0IripCDHknRbzfY8Lb6sWaNSZTx/view)**
+- You can see my resume here : **[Resume](https://drive.google.com/file/d/1euyLJXIle0Odf0BOKKJKHTqCuUlIJZkf/view?usp=sharing)**
 
 <!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
