@@ -24,7 +24,7 @@
          <a style="padding-right:8px;" href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/101392090/210254147-ac19b6a1-d071-4629-98c4-5f188d6e301c.png"/> </a>
+   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>
    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
 
