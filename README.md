@@ -9,7 +9,7 @@
 
 <!--- 🔭  currently i'm a student at Masai School.-->
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently working on **Next.js**
 
 - I’m looking to collaborate on open source/commercial projects
 
