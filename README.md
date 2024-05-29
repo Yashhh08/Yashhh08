@@ -13,7 +13,7 @@
 
 - I’m looking to collaborate on open source/commercial projects
 
- - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-yash-yerunkar.vercel.app/)** 
+ - 👨‍💻 All of my projects are available at **[My Portfolio](https://yash-yerunkar.vercel.app/)** 
 
 - 📫 You can reach me on my E-mail **yashyerunkar8@gmail.com**
 
