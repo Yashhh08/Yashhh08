@@ -1,57 +1,40 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash Yerunkar</h1>
-<h3 align="center">Passionate Full Stack Web Developer with a robust blend of technical expertise and soft skills, committed to crafting engaging and interactive web applications. Excited about leveraging a comprehensive skill set to contribute to innovative projects and collaborate with fellow developers in the GitHub community.
-</h3>
+<h1 align="center">Hi 👋, I'm Yash Yerunkar</h1>
+<h3 align="center">Full Stack Developer building web, SaaS and mobile products with React, Next.js, Firebase and React Native, from idea to App Store and Google Play.</h3>
 
+<p align="center">
+  <a href="https://yashyerunkar.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/yash-yerunkar/">LinkedIn</a> 
+</p>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About me
 
-<!--- 🔭  currently i'm a student at Masai School.-->
+- 🚀 I build production web apps, dashboards and mobile apps with **Next.js, React, TypeScript, Firebase and React Native**
+- 📱 I ship to the **App Store and Google Play** with Expo and EAS
+- 🔐 Comfortable with auth, role-based access, payments (Razorpay), video (Mux), notifications and AI features
+- 🤝 Open to collaborating on open-source and commercial projects
+- 👨‍💻 Full case studies are on my **[portfolio](https://yashyerunkar.vercel.app/)**
+- 📫 Reach me at **yashyerunkar8@gmail.com**
 
-- 🌱 I’m currently working on **Next.js**
+## 📦 Featured projects
 
-- I’m looking to collaborate on open source/commercial projects
+| Project | What it is | Built with | Links |
+|---|---|---|---|
+| **DEX** | Client approval tool for social media agencies. Clients review posts on a shared link and approve or request edits. Role-based dashboards, Mux video, Razorpay billing and AI captions. | Next.js, TypeScript, Firebase, Mux, Razorpay | [Live](https://www.makeyourdex.com/) · [Case study](https://yashyerunkar.vercel.app/projects/dex) |
+| **Antar** | Wellness membership app with live sessions, subscriber toolkits, Google/Apple/OTP sign-in and in-app payments. | React Native, Expo, Clerk, Razorpay | [App Store](https://apps.apple.com/in/app/antar/id6757388057) · [Google Play](https://play.google.com/store/apps/details?id=com.antarapp.antarparivar&hl=en) · [Case study](https://yashyerunkar.vercel.app/projects/antar) |
+| **PlantPetz** | AI plant-care companion. Identifies plants from photos, chats about care, writes a weekly journal, in 7 languages. | React Native, Expo, OpenAI, Firebase | [App Store](https://apps.apple.com/in/app/plantpetz/id6761518554) · [Google Play](https://play.google.com/store/apps/details?id=com.plantpetz.app&hl=en) · [Case study](https://yashyerunkar.vercel.app/projects/plantpetz) |
 
- - 👨‍💻 All of my projects are available at **[My Portfolio](https://yash-yerunkar.vercel.app/)** 
+## 🛠 Tech I work with
 
-- 📫 You can reach me on my E-mail **yashyerunkar8@gmail.com**
+![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,firebase,supabase,mongodb,git,github,vercel,figma,postman,vscode)
 
-- You can see my resume **[here](https://drive.google.com/file/d/1euyLJXIle0Odf0BOKKJKHTqCuUlIJZkf/view?usp=sharing)**
+**Web:** React, Next.js, TypeScript, Tailwind CSS, Node.js, REST APIs
+**Mobile:** React Native, Expo, EAS
+**Backend and data:** Firebase, Supabase, MongoDB
+**Integrations:** Clerk, Razorpay, RevenueCat, Mux, OneSignal, OpenAI
 
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
+## 🌐 Connect with me
 
-
-## 🚀 Languages and Tools:
-<P>FRONTEND</p>
-
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next)
-
-<P>BACKEND</p>
-
-![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express)
-
-<P>DATABASE</p>
-
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
-
-<P>OTHERS</p>
-
-![My Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,idea,postman,figma)
-
-
-## 📊 My Github Stats
-  <br/>
-  <a href="https://github.com/Yashhh08/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashhh08&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-    <a href="https://github.com/Yashhh08/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yashhh08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Yashhh08/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashhh08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=yashhh08&theme=react-dark)
-
-
-## Connect with me:
-<a href = "https://www.linkedin.com/in/yash-yerunkar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/yashhh.0.8/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://www.linkedin.com/in/yash-yerunkar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/yashhh.0.8/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" /></a>
